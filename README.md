@@ -6,4 +6,4 @@
 
 2) After doing so you will need to locate the location where you installed the files.
 
-3) Open up index.html and enjot :) 
+3) Open up index.html and enjoy :) 
